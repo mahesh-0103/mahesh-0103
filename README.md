@@ -3,7 +3,7 @@
 🎯 **Machine Learning & AI Enthusiast | Researcher | Hackathon Finalist**
 
 I’m passionate about building intelligent systems that bridge innovation and real-world impact.  
-Currently pursuing an **Integrated M.Tech in Artificial Intelligence** at **VIT Bhopal University (CGPA: 8.55)**,  
+Currently pursuing an **Integrated M.Tech in Artificial Intelligence** at **VIT Bhopal University **,  
 I focus on developing scalable ML solutions, deep learning models, and AI-driven automation systems.
 
 ---
