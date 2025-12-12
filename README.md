@@ -1,67 +1,74 @@
-👋 Hi, I'm Maheswaran S
+<h1 align="center">👋 Hi, I'm <strong>Maheswaran S</strong></h1>
 
-🎯 AI/ML Engineer in the Making | Hackathon Finalist | Research & Innovation Enthusiast
-📚 Integrated M.Tech in Artificial Intelligence @ VIT Bhopal
+<p align="center">
+  <strong>AI/ML Engineer in the Making • Hackathon Finalist • Research & Innovation Enthusiast</strong>
+  <br>
+  Integrated M.Tech in Artificial Intelligence @ <strong>VIT Bhopal University</strong>
+</p>
 
-I’m passionate about crafting intelligent systems that solve high-impact problems.
-From deep learning to agentic pipelines, I enjoy turning ideas into deployable solutions.
+---
 
-🧠 What I Do
+## 🚀 About Me
 
-🤖 Build and optimize Machine Learning & Deep Learning models
+I'm passionate about designing intelligent systems that blend innovation with real-world application.  
+My work spans **deep learning**, **synthetic data research**, **agentic pipelines**, and **AI-powered automation**.
 
-🔬 Work on research-driven AI, including synthetic data generation & obesity detection
+---
 
-⚙️ Develop AI automation, pipeline orchestration, and end-to-end ML systems
+## 🧠 What I Do
+- 🤖 Build and optimize **Machine Learning & Deep Learning Models**
+- 📷 Research in **synthetic image generation** & **vision-based obesity detection**
+- 🏆 Hackathon finalist experience in **AI-driven fraud defense systems**
+- 🔐 Active participant in **Shell.ai**, **SEBI**, **Global MCP**, **D3CODE**, and other AI/security hackathons
+- ⚙️ Develop and deploy **end-to-end ML systems**, APIs, and automation workflows
 
-🛠️ Explore Secure AI, adversarial defenses & fraud detection workflows
+---
 
-📊 Participate actively in AI + Security hackathons and rapid prototyping challenges
+## 🌟 Recent Highlights
 
-🚀 Recent Highlights
+### 🏆 NASSCOM Hackathon 2025 – Finalist  
+Developed an **AI Agentic Fraud Defense Pipeline** capable of detecting adversarial and multi-modal attack patterns.
 
-🏆 Finalist – NASSCOM Hackathon 2025
-Built an AI agentic fraud defense system capable of detecting coordinated threats using multimodal reasoning.
+### 🔬 Research Publication – Synthetic Data for Obesity Detection  
+Co-authored a paper introducing a **novel CNN architecture** trained on synthetically generated datasets for improved robustness.
 
-🔬 Co-Author – Research Paper on Obesity Detection (Synthetic Image Data)
-Proposed a novel CNN-based architecture leveraging synthetically generated data for improved dataset robustness.
+### 🔧 Shell.ai 2025 & SEBI Hackathon  
+Working on **ensemble learning**, **stacked models**, and **scalable ML pipelines** to maximize predictive performance.
 
-🔐 Ongoing work in Shell.ai 2025, SEBI Hackathon, D3CODE, and Global MCP
-Focusing on ensemble learning, scalable ML pipelines, and high-accuracy predictive modeling.
+---
 
-🧪 Developed multiple projects involving:
+## 🧰 Tech Stack
 
-TensorFlow & PyTorch model training
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,docker,linux,fastapi,js,react,sqlite,mysql&perline=6" />
+</p>
 
-Computer vision (OpenCV, CNNs, segmentation)
+---
 
-NLP pipelines & transformer-based models
+## 📈 Current Goals
+- Advancing expertise in **agentic AI architectures**
+- Pushing performance limits using **stacking, model distillation & ensembles**
+- Publishing more **research-backed deep learning projects**
+- Contributing to open-source AI tooling
 
-Model deployment & API integration
+---
 
-🧰 Tech Toolbox
+## 📫 Connect With Me
 
-Languages: Python, JavaScript, SQL
-AI/ML: TensorFlow, PyTorch, Scikit-Learn, OpenCV
-Dev Tools: Git, Docker, Linux, Streamlit, FastAPI
-Concepts: MLOps basics, DSA, Ensemble Learning, Prompt Engineering
+<p align="center">
+  <a href="https://linkedin.com/in/maheswaran0103">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mahesh-0103">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:maheswaran2225@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-📈 Current Goals
+---
 
-Enhancing expertise in agentic AI systems & model distillation
+<h3 align="center"><em>“Innovation starts where curiosity meets code — and grows where persistence refines it.”</em></h3>
 
-Building high-accuracy ML ensembles for competitive environments
 
-Expanding contributions to open-source AI tools
-
-Publishing more research-driven deep learning work
-
-📫 Connect With Me
-
-🌐 LinkedIn: https://linkedin.com/in/maheswaran0103
-
-💻 GitHub: https://github.com/mahesh-0103
-
-📧 Email: maheswaran2225@gmail.com
-
-⭐ “Innovation starts where curiosity meets code — and grows where persistence refines it.”
