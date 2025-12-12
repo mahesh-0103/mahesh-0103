@@ -1,27 +1,67 @@
-# 👋 Hi, I'm Maheswaran S
+👋 Hi, I'm Maheswaran S
 
-🎯 **Machine Learning & AI Enthusiast | Researcher | Hackathon Finalist**
+🎯 AI/ML Engineer in the Making | Hackathon Finalist | Research & Innovation Enthusiast
+📚 Integrated M.Tech in Artificial Intelligence @ VIT Bhopal
 
-I’m passionate about building intelligent systems that bridge innovation and real-world impact.  
-Currently pursuing an **Integrated M.Tech in Artificial Intelligence** at **VIT Bhopal University **,  
-I focus on developing scalable ML solutions, deep learning models, and AI-driven automation systems.
+I’m passionate about crafting intelligent systems that solve high-impact problems.
+From deep learning to agentic pipelines, I enjoy turning ideas into deployable solutions.
 
----
+🧠 What I Do
 
-## 🧠 About Me
-- 💡 Experienced in **Python, TensorFlow, OpenCV, NLP, and DSA**
-- 🤖 Co-authored a **research paper** on a novel deep learning approach for obesity detection using synthetic image data  
-- 🏆 Finalist at **NASSCOM Hackathon 2025** for developing an AI Agentic fraud defense system  
-- 🔍 Enthusiastic participant in **AI/Security Hackathons** (Shell.ai, SEBI, Global MCP, D3CODE)
+🤖 Build and optimize Machine Learning & Deep Learning models
 
----
+🔬 Work on research-driven AI, including synthetic data generation & obesity detection
 
+⚙️ Develop AI automation, pipeline orchestration, and end-to-end ML systems
 
-## 📫 Connect With Me
-- 🌐 [LinkedIn](https://linkedin.com/in/maheswaran0103)  
-- 💻 [GitHub](https://github.com/mahesh-0103)  
-- 📧 **maheswaran2225@gmail.com**
+🛠️ Explore Secure AI, adversarial defenses & fraud detection workflows
 
----
+📊 Participate actively in AI + Security hackathons and rapid prototyping challenges
 
-⭐ *“Innovation starts where curiosity meets code.”*
+🚀 Recent Highlights
+
+🏆 Finalist – NASSCOM Hackathon 2025
+Built an AI agentic fraud defense system capable of detecting coordinated threats using multimodal reasoning.
+
+🔬 Co-Author – Research Paper on Obesity Detection (Synthetic Image Data)
+Proposed a novel CNN-based architecture leveraging synthetically generated data for improved dataset robustness.
+
+🔐 Ongoing work in Shell.ai 2025, SEBI Hackathon, D3CODE, and Global MCP
+Focusing on ensemble learning, scalable ML pipelines, and high-accuracy predictive modeling.
+
+🧪 Developed multiple projects involving:
+
+TensorFlow & PyTorch model training
+
+Computer vision (OpenCV, CNNs, segmentation)
+
+NLP pipelines & transformer-based models
+
+Model deployment & API integration
+
+🧰 Tech Toolbox
+
+Languages: Python, JavaScript, SQL
+AI/ML: TensorFlow, PyTorch, Scikit-Learn, OpenCV
+Dev Tools: Git, Docker, Linux, Streamlit, FastAPI
+Concepts: MLOps basics, DSA, Ensemble Learning, Prompt Engineering
+
+📈 Current Goals
+
+Enhancing expertise in agentic AI systems & model distillation
+
+Building high-accuracy ML ensembles for competitive environments
+
+Expanding contributions to open-source AI tools
+
+Publishing more research-driven deep learning work
+
+📫 Connect With Me
+
+🌐 LinkedIn: https://linkedin.com/in/maheswaran0103
+
+💻 GitHub: https://github.com/mahesh-0103
+
+📧 Email: maheswaran2225@gmail.com
+
+⭐ “Innovation starts where curiosity meets code — and grows where persistence refines it.”
