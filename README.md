@@ -32,7 +32,7 @@ Developed an **AI-Powered Airlines Assistant** capable of handling end-to-end co
 ### 🔬 Research Publication – Synthetic Data for Obesity Detection  
 Co-authored a paper introducing a **novel CNN architecture** trained on synthetically generated datasets for improved robustness.
 
-### 🔧 Shell.ai 2025 & SEBI Hackathon  
+### 🔧 Descope & SEBI Hackathon  
 Working on **ensemble learning**, **stacked models**, and **scalable ML pipelines** to maximize predictive performance.
 
 ---
