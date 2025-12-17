@@ -27,7 +27,7 @@ My work spans **deep learning**, **synthetic data research**, **agentic pipeline
 ## 🌟 Recent Highlights
 
 ### 🏆 NASSCOM Hackathon 2025 – Finalist  
-Developed an **AI Agentic Fraud Defense Pipeline** capable of detecting adversarial and multi-modal attack patterns.
+Developed an **AI-Powered Airlines Assistant** capable of handling end-to-end conversations to automate the three most critical airline customer service flows: Flight Booking, Real-Time Status Checks, and Cancellations.
 
 ### 🔬 Research Publication – Synthetic Data for Obesity Detection  
 Co-authored a paper introducing a **novel CNN architecture** trained on synthetically generated datasets for improved robustness.
