@@ -18,7 +18,7 @@ My work spans **deep learning**, **synthetic data research**, **agentic pipeline
 ## 🧠 What I Do
 - 🤖 Build and optimize **Machine Learning & Deep Learning Models**
 - 📷 Research in **synthetic image generation** & **vision-based obesity detection**
-- 🏆 Hackathon finalist experience in **AI-driven fraud defense systems**
+- 🏆 Hackathon finalist experience in **AI-driven Airline Customer Care systems**
 - 🔐 Active participant in **Shell.ai**, **SEBI**, **Global MCP**, **D3CODE**, and other AI/security hackathons
 - ⚙️ Develop and deploy **end-to-end ML systems**, APIs, and automation workflows
 
